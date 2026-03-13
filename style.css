@@ -572,7 +572,7 @@ nav {
 
   /* hero */
   #hero { padding: 88px 16px 56px; }
-  .hero-title { font-size: clamp(44px, 16vw, 90px); }
+  .hero-title { font-size: clamp(24px, 16vw, 50px); }
   .hero-sub { font-size: 14px; }
   .hero-founder { font-size: 10px; letter-spacing: .2em; }
 
